@@ -161,8 +161,4 @@ shinyApp(ui,server)
 ```
 
 
-```{r}
-# library(rsconnect)
-# rsconnect::deployDoc('Test2.Rmd')
-```
 
