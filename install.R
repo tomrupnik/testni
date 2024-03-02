@@ -12,3 +12,4 @@ install.packages(c(
   "hrbrthemes",
   "ggtext"
 ))
+install.packages("rmarkdown")
