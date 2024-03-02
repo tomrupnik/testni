@@ -1,4 +1,4 @@
-install.packages((
+install.packages(c(
   "shiny",
   "plotly",
   "dplyr",
