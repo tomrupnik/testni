@@ -1,4 +1,4 @@
-install.packages(
+install.packages((
   "shiny",
   "plotly",
   "dplyr",
@@ -11,4 +11,4 @@ install.packages(
   "streamgraph",
   "hrbrthemes",
   "ggtext"
-)
+))
